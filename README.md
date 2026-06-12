@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://simpleicons.org/icons/jsonwebtokens.svg" height="40" alt="jwt logo"  />
+  <img src="https://camo.githubusercontent.com/999250586002eb96d5ef2843b73a63ceb7136a9e58f36a2048bf233f65175918/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73" height="40" alt="jwt logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
